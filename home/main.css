@@ -1,0 +1,72 @@
+/* CSS Document */
+
+body {
+	text-align: center;
+	margin-left: 560px;
+	margin-right: 650px;
+	margin-top: 260px;
+	margin-bottom: 300px;
+	line-height: 20px;
+	width: 300px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    -webkit-animation-name: example; /* Chrome, Safari, Opera */
+    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
+    animation-name: example;
+    animation-duration: 5s;
+}
+
+/* Standard syntax */
+@keyframes example {
+    0%   {background-color:black; left:0px; top:300px;}
+    100% {background-color:white; left:0px; top:0px;}
+}
+
+h1 {
+    font-family: "Roboto";
+	font-size: 60px;
+    cursor: pointer;
+	text-decoration: none
+}
+
+a:active {
+	color: black
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+p {
+    font-family: "Bradley Hand";
+    font-size: 20px;
+}
