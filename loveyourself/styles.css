@@ -1,0 +1,84 @@
+/* CSS Document */
+
+
+body {
+    font-family: "Roboto";
+	align-content: center;
+	color: white;
+	background-color: #2D2D2D;
+	margin: 0
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    width: 25%;
+    background-color: white;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+	color: black
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+    padding: 8px 0 8px 35px;
+}
+
+li a.active {
+    background-color: #00A8D3;
+	color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+div {
+	background-color: white;
+	margin-top: -25px;
+	margin-right: 1150px;
+	padding-top: 30px;
+	padding-bottom: 1100px;
+	margin-left: -40px;
+	letter-spacing: 0.25px
+}
+
+h1 {
+    text-align: left;
+	margin-left: 370px;
+	margin-right: 40px;
+	margin-top: -1651px;
+	float: left;
+	letter-spacing: 1px;
+	border-style: solid;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-width: thin
+}
+
+border {
+	margin-left: 0px
+}
+
+p {
+    font-size: 16px;
+	color: gray;
+	line-height: 24px;
+	margin-left: 370px;
+	margin-right: 90px
+}
+
+#para1 {
+	margin-top: -1476px
+}
+
+#para2, #para3 {
+	color: #B0B0B0
+}
