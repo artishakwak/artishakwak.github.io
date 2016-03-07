@@ -3,8 +3,8 @@
 body {
     font-family: "Roboto";
 	align-content: center;
-	color: #CBCBCB;
-	background-color: white;
+	color: white;
+	background-color: black;
 	margin: 0
 }
 
@@ -68,7 +68,7 @@ border {
 
 p {
     font-size: 16px;
-	color: #D0D0D0;
+	color: gray;
 	line-height: 24px;
 	margin-left: 370px;
 	margin-right: 90px
@@ -79,5 +79,5 @@ p {
 }
 
 #para2, #para3 {
-	color: orange
+	color: #9C003D
 }

@@ -3,8 +3,8 @@
 body {
     font-family: "Roboto";
 	align-content: center;
-	color: #CBCBCB;
-	background-color: white;
+	color: white;
+	background-color: #2D2D2D;
 	margin: 0
 }
 
@@ -42,7 +42,7 @@ div {
 	margin-top: -25px;
 	margin-right: 1150px;
 	padding-top: 30px;
-	padding-bottom: 700px;
+	padding-bottom: 1300px;
 	margin-left: -40px;
 	letter-spacing: 0.25px
 }
@@ -51,12 +51,12 @@ h1 {
     text-align: left;
 	margin-left: 370px;
 	margin-right: 40px;
-	margin-top: -1241px;
+	margin-top: -1850px;
 	float: left;
 	letter-spacing: 1px;
 	border-style: solid;
 	padding-top: 50px;
-	padding-bottom: 40px;
+	padding-bottom: 50px;
 	padding-left: 40px;
 	padding-right: 40px;
 	border-width: thin
@@ -68,16 +68,16 @@ border {
 
 p {
     font-size: 16px;
-	color: #D0D0D0;
+	color: gray;
 	line-height: 24px;
 	margin-left: 370px;
 	margin-right: 90px
 }
 
 #para1 {
-	margin-top: -1066px
+	margin-top: -1676px
 }
 
 #para2, #para3 {
-	color: orange
+	color: #B0B0B0
 }
