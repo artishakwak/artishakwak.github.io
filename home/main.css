@@ -14,7 +14,7 @@ body {
     -webkit-animation-name: example; /* Chrome, Safari, Opera */
     -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
     animation-name: example;
-    animation-duration: 5s;
+    animation-duration: 5s
 }
 
 /* Standard syntax */
@@ -24,7 +24,8 @@ body {
 }
 
 h1 {
-    font-family: "Roboto";
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 600;
 	font-size: 60px;
     cursor: pointer;
 	text-decoration: none
@@ -67,6 +68,7 @@ a:active {
 }
 
 p {
-    font-family: "Bradley Hand";
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
     font-size: 20px;
+	letter-spacing: 0.25px
 }
