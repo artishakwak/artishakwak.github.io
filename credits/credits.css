@@ -1,7 +1,6 @@
 /* CSS Document */
 
 body {
-	font-family: "Bradley Hand";
 	text-align: center;
 	margin-left: 430px;
 	margin-right: 650px;
@@ -12,6 +11,11 @@ body {
     height: 100px;
     background-color: white;
 	font-size: 20px
+}
+
+h1{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: 500
 }
 
 a:active {
