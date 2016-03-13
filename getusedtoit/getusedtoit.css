@@ -4,7 +4,7 @@ body {
     font-family: "Roboto";
 	align-content: center;
 	color: white;
-	background-color: gray;
+	background-color: #2D2D2D;
 	margin: 0
 }
 
@@ -51,7 +51,7 @@ h1 {
     text-align: left;
 	margin-left: 370px;
 	margin-right: 40px;
-	margin-top: -1651px;
+	margin-top: -1641px;
 	float: left;
 	letter-spacing: 1px;
 	border-style: solid;
@@ -71,11 +71,11 @@ p {
 	line-height: 24px;
 	margin-left: 370px;
 	margin-right: 90px;
-	color: #CDCDCD
+	color: gray
 }
 
 #para1 {
-	margin-top: -1476px
+	margin-top: -1475px
 }
 
 #para2, #para3 {
