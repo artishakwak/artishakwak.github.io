@@ -1,7 +1,8 @@
 /* CSS Document */
 
 body {
-    font-family: "Roboto";
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	letter-spacing: -0.1px;
 	align-content: center;
 	color: white;
 	background-color: black;
@@ -44,7 +45,8 @@ div {
 	padding-top: 30px;
 	padding-bottom: 1100px;
 	margin-left: -40px;
-	letter-spacing: 0.25px
+	letter-spacing: 0.25px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 
 h1 {
@@ -52,7 +54,8 @@ h1 {
 	margin-left: 370px;
 	margin-right: 40px;
 	margin-top: -1651px;
-	letter-spacing: 1px
+	letter-spacing: -0.01px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif
 }
 
 border {

@@ -1,16 +1,15 @@
 /* CSS Document */
 
 body {
-    font-family: "Roboto";
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	letter-spacing: -0.1px;
 	align-content: center;
 	color: white;
-	background-color: #2D2D2D;
-	margin: 0
+	background-color: #2D2D2D
 }
 
 ul {
     list-style-type: none;
-    margin: 0;
     padding: 20px;
     width: 25%;
     background-color: white;
@@ -42,24 +41,26 @@ div {
 	margin-top: -25px;
 	margin-right: 1150px;
 	padding-top: 30px;
-	padding-bottom: 1100px;
-	margin-left: -40px;
-	letter-spacing: 0.25px
+	padding-bottom: 1150px;
+	margin-left: -50px;
+	letter-spacing: 0.25px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 
 h1 {
     text-align: left;
 	margin-left: 370px;
 	margin-right: 40px;
-	margin-top: -1651px;
+	margin-top: -1701px;
 	float: left;
-	letter-spacing: 1px;
 	border-style: solid;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-left: 40px;
 	padding-right: 40px;
-	border-width: thin
+	border-width: thin;
+	letter-spacing: -0.25px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 
 border {
@@ -75,7 +76,7 @@ p {
 }
 
 #para1 {
-	margin-top: -1476px
+	margin-top: -1524px
 }
 
 #para2, #para3 {
