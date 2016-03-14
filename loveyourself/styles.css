@@ -39,17 +39,17 @@ li a:hover:not(.active) {
 div {
 	background-color: white;
 	margin-top: -25px;
-	margin-right: 1150px;
-	padding-top: 30px;
+	margin-right: 1142px;
+	padding-top: 22px;
 	padding-bottom: 1150px;
-	margin-left: -50px;
+	margin-left: -48px;
 	letter-spacing: 0.25px;
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 }
 
 h1 {
     text-align: left;
-	margin-left: 370px;
+	margin-left: 360px;
 	margin-right: 40px;
 	margin-top: -1701px;
 	float: left;
@@ -71,7 +71,7 @@ p {
     font-size: 16px;
 	color: gray;
 	line-height: 24px;
-	margin-left: 370px;
+	margin-left: 360px;
 	margin-right: 90px
 }
 
