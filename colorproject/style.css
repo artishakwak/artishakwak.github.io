@@ -1,0 +1,117 @@
+/* CSS Document */
+
+body {
+	background-color: #ADE6FF;
+	margin: 1.0;
+	margin-left: 100px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+header {
+	color: white;
+	font-size: 35px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif
+}
+
+h2 {
+	color: black
+}
+
+p, ul {
+	font-size: 14px;
+	color: gray
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+	text-decoration: none
+}
+
+/* visited link */
+a:visited {
+    color: white;
+	text-decoration: none
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #FFB75A;
+}
+
+#modes {
+	background-color: yellow;
+	padding: 2%;
+}
+
+#theory {
+	background-color: white;
+	padding: 2%
+}
+
+#models {
+	background-color: #96DDFF;
+	padding: 2%
+}
+
+#psychology {
+	background-color: #FFEDC5;
+	padding: 2%
+}
+
+#head1 {
+	color: red
+}
+
+#head2 {
+	color: orange
+}
+
+#head3 {
+	color: yellow
+}
+
+#head4 {
+	color: green
+}
+
+#head5 {
+	color: blue
+}
+
+#head6 {
+	color: violet
+}
+
+#head7 {
+	color: black
+}
+
+#head8 {
+	color: white
+}
+
+footer {
+	background-color: #00148B;
+	margin-right: -100px;
+	margin-left: -100px;
+	padding-left: 100px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+#para0 {
+	color: #84E5FF;
+	letter-spacing: 0.5px;
+	font-size: 16px
+}
+
+#para1, #para2, #para3 {
+	font-size: 12px
+}
