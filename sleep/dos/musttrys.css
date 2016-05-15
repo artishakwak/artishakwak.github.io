@@ -1,0 +1,215 @@
+/* CSS Document */
+
+body {
+	background-image: url("../images/bluemoon.png");
+ 	background-position: 50 50%;
+  	background-repeat: repeat-y;
+	padding-bottom: 100px;
+}
+
+h1 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	font-size: 100px;
+    cursor: pointer;
+	text-decoration: none;
+	line-height: 100px;
+	text-align: center;
+}
+
+a:active {
+	color: black
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: #8BC7FF;
+}
+
+/* selected link */
+a:active {
+    color: #C0F2FF;
+}
+
+#para1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	color: #8BC7FF;
+	text-align: center;
+}
+
+#list1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: left;
+	color: #8BC7FF;
+}
+
+#listitem1, #listitem2, #listitem3, #listitem4, #listitem5 {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+h2 {
+	font-family: 'Lobster', cursive;
+	font-weight: 600;
+	font-size: 100px;
+    cursor: pointer;
+	text-decoration: none;
+	line-height: 100px;
+	text-align: left;
+	color: white;
+	margin-left: 50px;
+}
+
+img {
+	margin-top: 20px;
+	margin-left: 50px;
+}
+
+#para2 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 50px;
+	color: #8BC7FF;
+	margin-top: -40px
+}
+
+#para3, #para4{
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 50px;
+	color: white;
+}
+
+#head3 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	font-size: 35px;
+    cursor: pointer;
+	text-decoration: none;
+	line-height: 100px;
+	text-align: left;
+	color: white;
+	margin-left: 50px;
+	margin-top: 75px
+}
+
+#head4, #head5 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	font-size: 35px;
+    cursor: pointer;
+	text-decoration: none;
+	line-height: 100px;
+	text-align: left;
+	color: white;
+	margin-left: 50px;
+	margin-top: 40px
+}
+
+#list2, #list3, #list4 {
+  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 30px;
+	color: #8BC7FF;
+	margin-top: -50px
+}
+
+#para3 {
+  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 50px;
+	color: #8BC7FF;
+	margin-top: -50px
+}
+
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+.span_2_of_2 {
+	width: 100%;
+}
+.span_1_of_2 {
+	width: 49.2%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+
+@media only screen and (max-width: 480px) {
+	.col { 
+		margin: 1% 0 1% 0%;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.span_2_of_2, .span_1_of_2 { width: 100%; }
+}

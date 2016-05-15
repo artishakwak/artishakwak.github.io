@@ -1,0 +1,99 @@
+/* CSS Document */
+body {
+	background-image: url("../images/bluemoon.png");
+ 	background-position: 50 50%;
+  	background-repeat: repeat-y;
+	background-color: #002175;
+}
+
+h1 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	font-size: 100px;
+    cursor: pointer;
+	text-decoration: none;
+	line-height: 100px;
+	text-align: center;
+}
+
+a:active {
+	color: black
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: #8BC7FF;
+}
+
+/* selected link */
+a:active {
+    color: #C0F2FF;
+}
+
+#para1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	font-size: 20px;
+	color: #8BC7FF;
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	text-align: center;
+	color: #8BC7FF;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#para2 {
+    font-family: 'Lobster', cursive;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 120px;
+	text-align: left;
+	margin-left: 50px;
+	color: #8BC7FF;
+}
