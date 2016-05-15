@@ -256,6 +256,17 @@ img {
 	color: #8BC7FF;
 }
 
+#item0003 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 12px;
+	margin-left: -132px;
+	color: #8BC7FF;
+}
+
 #item4 {
    	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
@@ -286,6 +297,17 @@ img {
 	text-align: left;
 	margin-top: 86px;
 	margin-left: -240px;
+	color: #8BC7FF;
+}
+
+#item0004 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: -45px;
+	margin-left: 20px;
 	color: #8BC7FF;
 }
 
@@ -350,6 +372,17 @@ img {
 	color: #8BC7FF;
 }
 
+#item0005 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: -10px;
+	margin-left: 18px;
+	color: #8BC7FF;
+}
+
 #item6 {
    	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
@@ -369,6 +402,17 @@ img {
 	text-align: left;
 	margin-top: -18px;
 	margin-left: 30px;
+	color: #8BC7FF;
+}
+
+#item0006 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 25px;
+	margin-left: -280px;
 	color: #8BC7FF;
 }
 
