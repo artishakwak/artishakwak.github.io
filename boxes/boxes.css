@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+#one {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+#two{
+	padding: 100px;
+}
+
+#three{
+	border: 1px;
+	border-style: dotted;
+}
+
+#four, five{
+	width: 49%;
+	float: left;
+	padding-right: 1%;
+	margin: none;
+	border: none;
+}
