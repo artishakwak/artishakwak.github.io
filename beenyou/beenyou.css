@@ -5,7 +5,7 @@ body {
 	align-content: center;
 	color: white;
 	background-color: #2D2D2D;
-	margin: 0
+	margin: 0;
 }
 
 ul {
@@ -17,7 +17,7 @@ ul {
     position: fixed;
     height: 100%;
     overflow: auto;
-	color: black
+	color: black;
 }
 
 li a {

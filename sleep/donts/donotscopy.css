@@ -1,7 +1,7 @@
 /* CSS Document */
 
 body {
-	background-image: url("../images/bluemoon.png");
+	background-image: url("../images/blood_moon.png");
  	background-position: 50 50%;
   	background-repeat: repeat-y;
 	padding-bottom: 100px;
@@ -64,12 +64,12 @@ a:active {
 #list1 {
     list-style-type: none;
     margin: 0;
-    padding: 0;
     overflow: hidden;
     background-color: #333;
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	text-align: center;
 	color: #8BC7FF;
+	padding-left: 300px;
 }
 
 li {
@@ -89,20 +89,12 @@ li a:hover {
     background-color: #111;
 }
 
-#list1 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-}
-
 li {
     float: left;
 }
 
-#list1 {
-	padding-left: 300px;
+.dropbtn1 {
+	padding-left: 20px;
 }
 
 li a, .dropbtn {
@@ -173,12 +165,11 @@ img {
 	font-size: 20px;
 	text-align: left;
 	margin-left: 50px;
-	color: #8BC7FF;
-	margin-top: -60px;
-	line-height: 25px;
+	color: #D8A5A6;
+	margin-top: -40px
 }
 
-#para3, #para4 {
+#para3, #para4{
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
 	text-decoration: none;
@@ -188,7 +179,7 @@ img {
 	color: white;
 }
 
-#head1 {
+#head3 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 600;
 	font-size: 35px;
@@ -201,51 +192,7 @@ img {
 	margin-top: 75px
 }
 
-#item1 {
-  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    cursor: pointer;
-	text-decoration: none;
-	font-size: 20px;
-	text-align: left;
-	margin-left: 30px;
-	color: #8BC7FF;
-	margin-top: -50px
-}
-
- #item2 {
-   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    cursor: pointer;
-	text-decoration: none;
-	font-size: 20px;
-	text-align: left;
-	margin-left: 30px;
-	margin-top: -20px;
-	color: #8BC7FF;
- }
-
-#item3 {
-   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    cursor: pointer;
-	text-decoration: none;
-	font-size: 20px;
-	text-align: left;
-	margin-top: -7px;
-	margin-left: 30px;
-	color: #8BC7FF;
-}
-
-#item4 {
-   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    cursor: pointer;
-	text-decoration: none;
-	font-size: 20px;
-	text-align: left;
-	margin-top: 7px;
-	margin-left: 30px;
-	color: #8BC7FF;
-}
-
-#head2 {
+#head4, #head5 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 600;
 	font-size: 35px;
@@ -254,30 +201,19 @@ img {
 	line-height: 100px;
 	text-align: left;
 	color: white;
-	margin-left: 45px;
-	margin-top: 60px
+	margin-left: 50px;
+	margin-top: 40px
 }
 
-#item5 {
-   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+#list2, #list3, #list4 {
+  	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
 	text-decoration: none;
 	font-size: 20px;
 	text-align: left;
-	margin-top: -50px;
-	margin-left: 25px;
-	color: #8BC7FF;
-}
-
-#item6 {
-   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    cursor: pointer;
-	text-decoration: none;
-	font-size: 20px;
-	text-align: left;
-	margin-top: -18px;
-	margin-left: 25px;
-	color: #8BC7FF;
+	margin-left: 30px;
+	color: #D8A5A6;
+	margin-top: -50px
 }
 
 #para3 {
@@ -287,7 +223,7 @@ img {
 	font-size: 20px;
 	text-align: left;
 	margin-left: 50px;
-	color: #8BC7FF;
+	color: #D8A5A6;
 	margin-top: -50px
 }
 
