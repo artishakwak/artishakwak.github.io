@@ -3,7 +3,6 @@ body {
 	background-image: url("../images/1.jpg");
  	background-position: 50 50%;
   	background-repeat: no-repeat;
-	background-color: #001244;
 }
 
 h1 {
@@ -175,81 +174,65 @@ h2 {
 #para2 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 200;
-	font-size: 20px;
+	font-size: 18px;
 	color: white;
-	text-align: left;
-	line-height: 50px;
-	margin-left: 50px;
+	text-align: center;
+	margin-top: 90px;
 }
 
 #para3 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 200;
-	font-size: 30px;
+	font-size: 40px;
 	color: white;
-	text-align: left;
-	margin-left: 100px;
+	text-align: center;
 }
 
 #para4 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 200;
-	font-size: 40px;
+	font-size: 50px;
 	color: white;
-	text-align: left;
-	margin-left: 150px;
+	text-align: center;
 }
 
 #para5 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 200;
-	font-size: 50px;
+	font-size: 60px;
 	color: white;
-	text-align: left;
-	margin-left: 200px;
+	text-align: center;
 }
 
 #para6 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 200;
-	font-size: 60px;
+	font-size: 90px;
 	color: white;
-	text-align: left;
-	margin-left: 250px;
+	text-align: center;
 }
 
 #para7 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 200;
-	font-size: 70px;
+	font-size: 95px;
 	color: white;
-	text-align: left;
-	margin-left: 300px;
+	text-align: center;
 }
 
-#para8, #para9, #para10, #para11, #para12, #para13 {
+#para8 {
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 	font-weight: 200;
-	font-size: 80px;
-	color: white;
-	text-align: left;
-	margin-left: 350px;
+	font-size: 140px;
+	text-align: center;
+	color: black;
 }
 
-#para14 {
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+#para9 {
+	font-family: 'Lobster', cursive;
 	font-weight: 200;
-	font-size: 80px;
-	text-align: left;
-	margin-left: 350px;
-	color: red;
-}
-
-#para15 {
-    font-family: 'Lobster', cursive;
-	font-weight: 200;
-	font-size: 80px;
-	color: white;
-	text-align: left;
-	margin-left: 350px;
+	font-size: 40px;
+	text-align: center;
+	color: #8BC7FF;
+	margin-bottom: 60px;
 }

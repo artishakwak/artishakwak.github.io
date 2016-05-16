@@ -223,6 +223,17 @@ img {
 	color: #D8A5A6;
  }
 
+ #item02 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-left: 30px;
+	margin-top: 6px;
+	color: #D8A5A6;
+ }
+
 #item3 {
    	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
@@ -251,19 +262,8 @@ img {
 	text-decoration: none;
 	font-size: 20px;
 	text-align: left;
-	margin-top: 32px;
-	margin-left: -240px;
-	color: #D8A5A6;
-}
-
-#item0003 {
-   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    cursor: pointer;
-	text-decoration: none;
-	font-size: 20px;
-	text-align: left;
-	margin-top: 12px;
-	margin-left: -132px;
+	margin-top: 42px;
+	margin-left: -86px;
 	color: #D8A5A6;
 }
 
@@ -284,8 +284,8 @@ img {
 	text-decoration: none;
 	font-size: 20px;
 	text-align: left;
-	margin-top: 42px;
-	margin-left: -160px;
+	margin-top: 78px;
+	margin-left: -89px;
 	color: #D8A5A6;
 }
 
@@ -295,19 +295,8 @@ img {
 	text-decoration: none;
 	font-size: 20px;
 	text-align: left;
-	margin-top: 86px;
-	margin-left: -240px;
-	color: #D8A5A6;
-}
-
-#item0004 {
-   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    cursor: pointer;
-	text-decoration: none;
-	font-size: 20px;
-	text-align: left;
-	margin-top: -45px;
-	margin-left: 20px;
+	margin-top: 45px;
+	margin-left: -170px;
 	color: #D8A5A6;
 }
 
@@ -347,7 +336,7 @@ img {
 	text-align: left;
 	color: white;
 	margin-left: 43px;
-	margin-top: 230px
+	margin-top: 160px
 }
 
 #head3 {
@@ -361,6 +350,19 @@ img {
 	color: white;
 	margin-left: 50px;
 	margin-top: 90px
+}
+
+#head03 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	font-size: 35px;
+    cursor: pointer;
+	text-decoration: none;
+	line-height: 100px;
+	text-align: left;
+	color: white;
+	margin-left: 34px;
+	margin-top: 170px
 }
 
 #item5 {
@@ -380,7 +382,18 @@ img {
 	text-decoration: none;
 	font-size: 20px;
 	text-align: left;
-	margin-top: 8px;
+	margin-top: -50px;
+	margin-left: 25px;
+	color: #D8A5A6;
+}
+
+#item005 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 5px;
 	margin-left: 25px;
 	color: #D8A5A6;
 }
@@ -391,8 +404,8 @@ img {
 	text-decoration: none;
 	font-size: 20px;
 	text-align: left;
-	margin-top: -10px;
-	margin-left: 18px;
+	margin-top: 80px;
+	margin-left: -171px;
 	color: #D8A5A6;
 }
 
@@ -418,14 +431,14 @@ img {
 	color: #D8A5A6;
 }
 
-#item0006 {
+#item006 {
    	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
 	text-decoration: none;
 	font-size: 20px;
 	text-align: left;
-	margin-top: 25px;
-	margin-left: -280px;
+	margin-top: -13px;
+	margin-left: 25px;
 	color: #D8A5A6;
 }
 
@@ -440,6 +453,28 @@ img {
 	color: #D8A5A6;
 }
 
+#item07 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 23px;
+	margin-left: -198px;
+	color: #D8A5A6;
+}
+
+#item007 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: -43px;
+	margin-left: 26px;
+	color: #D8A5A6;
+}
+
 #item8 {
    	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
@@ -448,6 +483,171 @@ img {
 	text-align: left;
 	margin-top: 22px;
 	margin-left: -215px;
+	color: #D8A5A6;
+}
+
+#item08 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 58px;
+	margin-left: -226px;
+	color: #D8A5A6;
+}
+
+#item008 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: -10px;
+	margin-left: 26px;
+	color: #D8A5A6;
+}
+
+#item9 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 95px;
+	margin-left: -227px;
+	color: #D8A5A6;
+}
+
+#item09 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 23px;
+	margin-left: -202px;
+	color: #D8A5A6;
+}
+
+#item10 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: -42px;
+	margin-left: 13px;
+	color: #D8A5A6;
+}
+
+#item010 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 56px;
+	margin-left: -203px;
+	color: #D8A5A6;
+}
+
+#item11 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: -9px;
+	margin-left: 14px;
+	color: #D8A5A6;
+}
+
+#item011 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 88px;
+	margin-left: -203px;
+	color: #D8A5A6;
+}
+
+#item12 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: -45px;
+	margin-left: 13px;
+	color: #D8A5A6;
+}
+
+#item13 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 38px;
+	margin-left: -284px;
+	color: #D8A5A6;
+}
+
+#item14 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 98px;
+	margin-left: -284px;
+	color: #D8A5A6;
+}
+
+#item15 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 158px;
+	margin-left: -284px;
+	color: #D8A5A6;
+}
+
+#item16 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 198px;
+	margin-left: -284px;
+	color: #D8A5A6;
+}
+
+#item17 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 255px;
+	margin-left: -284px;
+	color: #D8A5A6;
+}
+
+#item18 {
+   	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 315px;
+	margin-left: -294px;
 	color: #D8A5A6;
 }
 
