@@ -170,13 +170,14 @@ h2 {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 15px;
 	text-align: left;
 	margin-left: 50px;
 	color: #A2C9FF;
+	margin-top: -30px;
 }
 
-#para3, #para4{
+#para3 {
     font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
     cursor: pointer;
 	text-decoration: none;
@@ -184,4 +185,16 @@ h2 {
 	text-align: left;
 	margin-left: 50px;
 	color: white;
+}
+
+#para4 {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+	text-decoration: none;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 50px;
+	color: white;
+	margin-top: -10px;
+	margin-bottom: 200px;
 }
